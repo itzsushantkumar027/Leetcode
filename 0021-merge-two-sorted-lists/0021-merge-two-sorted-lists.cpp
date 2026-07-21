@@ -25,7 +25,11 @@ public:
             }
             current = current->next;
         }
-        current->next = list1 ? list1 :list2;
+        if (list1 != nullptr) {
+            current->next = list1;
+        } else {
+            current->next = list2;
+        }
         return Merge->next;
     }
 };
