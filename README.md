@@ -20,8 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/itzsushantkumar027/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/itzsushantkumar027/Leetcode/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/itzsushantkumar027/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/itzsushantkumar027/Leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
