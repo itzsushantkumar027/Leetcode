@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/itzsushantkumar027/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/itzsushantkumar027/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
