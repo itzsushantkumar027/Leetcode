@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/itzsushantkumar027/Leetcode/tree/master/0009-palindrome-number) |
+| [0441-arranging-coins](https://github.com/itzsushantkumar027/Leetcode/tree/master/0441-arranging-coins) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itzsushantkumar027/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/itzsushantkumar027/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/itzsushantkumar027/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/itzsushantkumar027/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/itzsushantkumar027/Leetcode/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
